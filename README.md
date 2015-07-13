@@ -6,12 +6,12 @@ Este é um repositório para atender os requisitos parciais do treinamento GIT d
 Entregas de exercícios
 -----
 
-1. ###Instruções para fazer o push desde o commit
+1. ### Instruções para fazer o push desde o commit
 
-1.1 ####_Commit_
+1.1 #### _Commit_
 
 ` git commit -m 'Entrega do primeiro exercício do treinamento GIT'`
 
-1.2 ####_Push_
+1.2 #### _Push_
 
 ` git push origin master`
