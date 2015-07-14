@@ -1,2 +1,2 @@
 <?php phpinfo(); ?>
-Olá!
+Partiu Canadá!
